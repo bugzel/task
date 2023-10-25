@@ -1,0 +1,9 @@
+package com.task.constants;
+
+public final class Constants {
+
+    public static final String GITHUB_API_URL = "https://api.github.com/users/";
+    public static final int ONE = 1;
+    public static final int TWO = 2;
+    public static final int SIX = 6;
+}
